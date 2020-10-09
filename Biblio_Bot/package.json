@@ -1,0 +1,14 @@
+{
+    "name": "bibliobott",
+    "version": "0.0.1",
+    "description": "Um bot para fazer pesquisas",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Oct4viosZ",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.3.1"
+    }
+}
